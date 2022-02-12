@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @agostonr
+- 👀 I’m a software engineer with an interest in games and computer art.
+- 🌱 I'm starting to develop assets and maybe games too later on. Feel free to check out the links below as they appear. 
