@@ -1,4 +1,6 @@
-- 👋 Hi, I’m @agostonr (gamer tag Amsiamun, pronounced am-see-ah-mun). 
+# Agoston_R
+
+- 👋 Hi, I’m Agoston Romhanyi (gamer tag Amsiamun, pronounced am-see-ah-mun). 
 - 👀 I’m a software engineer with an interest in games and computer art.
 - 🌱 I'm starting to develop assets and maybe games too later on. Feel free to check out the links to my projects below. 
 
