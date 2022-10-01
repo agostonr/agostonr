@@ -13,3 +13,23 @@ See the project on Unity Asset Store:
 https://assetstore.unity.com/packages/slug/217289
 Orr check out the docs:
 https://agostonr.github.io/Laser-system/
+
+### Aim Assist Pro
+
+Various aim assist solutions similar to those found in high profile games. 
+
+Demo video:
+https://www.youtube.com/watch?v=b20RkdD8L04&t=1s&ab_channel=Agoston_R
+
+See the project on Unity Asset Store:
+https://assetstore.unity.com/packages/slug/226597
+
+### Simple Laser (available soon)
+
+A simple laser beam shader with just enough code to make it work. 
+
+Demo video:
+https://vimeo.com/755823710
+
+See the project on Unity Asset Store (after publishing):
+https://assetstore.unity.com/packages/slug/234247
