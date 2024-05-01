@@ -3,7 +3,7 @@
 - 👋 Hi, I’m Agoston Romhanyi. 
 - 👀 I’m a software engineer with an interest in games and computer art.
 - 🌱 I'm starting to develop assets and maybe games too later on. Feel free to check out the links to my projects below. 
-- 🕊️ Contact me on twitter at https://twitter.com/agoston_r
+- 🕊️ Contact me by email at amsiamun.dev@gmail.com
 
 ### Laser System for Unity
 
