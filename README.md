@@ -2,7 +2,7 @@
 
 - 👋 Hi, I’m Agoston Romhanyi. 
 - 👀 I’m a software developer with an interest in games and computer art.
-- 🌱 I'm starting to develop assets and maybe games too later on. Feel free to check out the links to my projects below. 
+- 🌱 I develop assets and maybe games too later on. Feel free to check out the links to my projects below. 
 - 🕊️ Contact me by email at amsiamun.dev@gmail.com
 
 ### Aim Assist Scripts for Unreal Engine
@@ -25,14 +25,13 @@ https://www.youtube.com/watch?v=b20RkdD8L04&t=1s&ab_channel=Agoston_R
 **See the project on Unity Asset Store:**
 https://assetstore.unity.com/packages/slug/226597
 
-### Simple Laser (available soon)
-
+### Simple Laser
 A simple laser beam shader with just enough code to make it work. 
 
 **Demo video:**
 https://vimeo.com/755823710
 
-**See the project on Unity Asset Store (after publishing):**
+**See the project on Unity Asset Store:**
 https://assetstore.unity.com/packages/slug/234247
 
 ### Laser System for Unity
